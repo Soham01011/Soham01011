@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EduFlex**
 
-- 🌱 I’m currently learning **NodeJS ,Python**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
