@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Dalvi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **EduFlex**
+- 🔭 I’m currently working on **Taskify**
 
 - 🌱 I’m currently learning **Web Frameworks and ML**
 
